@@ -86,7 +86,9 @@ p2{
 }
 /* feature section  */
 #features{
-  padding: 7% 10%;
+  padding: 10%;
+  text-align: center;
+
 }
 .feature-box{
   text-align: center;
