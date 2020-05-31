@@ -1,6 +1,6 @@
 
   body{
-   font-family: "Montserrat-Bold", sans-serif;
+    font-family: "Montserrat";
   }
 
   #title {
@@ -19,7 +19,7 @@ padding: 0 0 5rem;
 
 .navbar-brand {
   font-family: "Montserrat-Bold", sans-serif;
-  font-size: 2 rem;
+  font-size: 2rem;
   font-weight: bold;
 }
 
@@ -28,7 +28,7 @@ padding: 0 0 5rem;
 }
 
 .nav-link{
-  font-size: 1.2 rem;
+  font-size: 1.2rem;
   font-family: "Montserrat-Bold", sans-serif;
   font-weight: bold;
 }
@@ -48,7 +48,7 @@ h2{
 h3{
       font-family: "Montserrat-Bold", sans-serif;
       font-size: 1.5rem;
-      line-height: 1.5;
+      line-height: 1.5rem;
     }
 
 h4{
@@ -86,9 +86,7 @@ p2{
 }
 /* feature section  */
 #features{
-  padding: 10%;
-  text-align: center;
-
+  padding: 1% 10% 7% 10%;
 }
 .feature-box{
   text-align: center;
@@ -96,18 +94,26 @@ p2{
 }
 
 .icon-fa{
-  color: #ef8172;
+  color: #588c7e;
   margin-bottom: 1rem;
 }
 
 .icon-fa:hover{
-  color: #ff4c68;
+  color: #5b8c5a;
 }
+
+#usp{
+  text-align: center;
+  padding: 5% 7% 1% 7%;
+}
+
 /* Testimonial sections */
 #testimonials{
-  text-align: center;
-  background-color: #ef8172;
+  padding: 3% 7% 3% 7%;
+  text-align: auto;
+  background-color: #588c7e;
   color: #fff;
+  line-height: 2rem;
 }
 .testimonial-image{
   width: 10%;
