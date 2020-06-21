@@ -35,7 +35,7 @@ padding: 0 0 5rem;
 
 h1{
     font-family: "Montserrat-Black", sans-serif;
-    font-size: 4rem;
+    font-size: 6rem;
     line-height: 1.5;
   }
 
@@ -50,6 +50,7 @@ h3{
       font-size: 1.5rem;
       line-height: 1.5rem;
     }
+
 
 h4{
       font-family: "Montserrat-Bold", sans-serif;
@@ -82,6 +83,7 @@ p2{
     transform: rotate(0deg);
     width: 100%;
 }
+
 
 }
 /* feature section  */
@@ -158,8 +160,4 @@ p2{
    text-align: center;
    background-color: #588c7e;
    color: #fff;
- }
- #footer{
-   text-align: center;
-   background-color: #588c7e;
  }
