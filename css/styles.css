@@ -146,12 +146,12 @@ p2{
 }
 
 .image-pict2{
-    transform: rotate(0deg);
+    transform: rotate(180deg);
     margin-top: 1rem;
     width: 25%;
 }
 .image-pict3{
-    transform: rotate(0deg);
+    transform: rotate(180deg);
     margin-top: 1rem;
     width: 40%;
 }
